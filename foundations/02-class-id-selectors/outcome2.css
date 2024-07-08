@@ -1,0 +1,16 @@
+.index-p {
+  background-color: rgb(251, 174, 173);
+  font-family: Verdana, "DejaVu Sans", "sans-serif";
+  font-size: 24px;
+}
+
+#ele-2 {
+  color: #0612ca;
+  font-size: 36px;
+}
+
+#ele-4 {
+  background-color: hsl(145, 95%, 41%);
+  font-size: 24px;
+  font-weight: bold;
+}
